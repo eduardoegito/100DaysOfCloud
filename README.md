@@ -14,16 +14,14 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Cadu Egito's Cloud Journey
 
-[✍️ Introduce yourself]
-
-[✍️ Tell us why you started this challenge]
-
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+ I am an Systems Engineer aiming to be an Cloud Engineer.
+ 
+I started this challenge in order to develop cloud skills and get a opportunity to work with cloud computing. After spent 15 years in a on-premises systems admin role, I wanna learn this cloud systems and DevOpes approach.   
+I am moving to Canada in 2022, ans I want to be working for companies that develop projects with cloud computing.
+- [@eduardoegito](https://twitter.com/eduardoegito)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/eduardoegito)
 
 ## Stepping out the door
 
