@@ -10,18 +10,16 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
-
 ## Cadu Egito's Cloud Journey
 
- I am an Systems Engineer aiming to be an Cloud Engineer.
- 
-I started this challenge in order to develop cloud skills and get a opportunity to work with cloud computing. After spent 15 years in a on-premises systems admin role, I wanna learn this cloud systems and DevOpes approach.   
-I am moving to Canada in 2022, ans I want to be working for companies that develop projects with cloud computing.
-- [@eduardoegito](https://twitter.com/eduardoegito)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/eduardoegito)
+I am an Systems Engineer aiming to be an Cloud Engineer.
+I started this challenge in order to develop skills and get experience to get an opportunity to work with cloud computing. After spent 15 years in a on-premises systems admin role, I want to learn more the cloud systems and DevOps approach.   
+I am moving to Canada in 2022, ans I know that there are a lot of jobs in cloud computin, because of that, I want to be prepared to work for companies that develop projects with cloud computing.
+I already have the AWS Cloud Practictioner certification and my first goal to 2022 is to get the AWS Solutions Architect Associate certification.
+
+
+- [Twitter - @eduardoegito](https://twitter.com/eduardoegito)
+- [LinkedIn](https://www.linkedin.com/in/eduardoegito)
 
 ## Stepping out the door
 
