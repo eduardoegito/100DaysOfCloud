@@ -5,7 +5,7 @@
 ## Introduction
 
 On the first day, I get to know how the 100DaysOfCloud Challenge works and how other developers took their journey.
-I planned to take the journey by selecting some ideas from the repository [100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas) and get them automated with Terraform.
+On the second day, I planned to take the journey by selecting some ideas from the repository [100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas) and get them automated with Terraform.
 My next activities will be based on the ideas listed below:
 
 - [COM03-AWS100 - Launch a Hello World website on the internet](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/COM/COM03/COM03-AWS100.md)
