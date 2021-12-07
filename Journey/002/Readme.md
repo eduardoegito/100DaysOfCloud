@@ -25,9 +25,6 @@ To be more prepared to work with Terraform I will take a course from LinuxTips c
 The posts that show that I shared my process on Twitter or 
 LinkedIn are avaiable below.
 
-[Tweet post](https://twitter.com/eduardoegito/status/
-1467873461167177729)
+[Tweet post](https://twitter.com/eduardoegito/status/1468244736691605512)
 
-[LinkedIn post](https://www.linkedin.com/posts/
-eduardoegito_carlos-eduardo-egito-on-twitter-activity-687363
-9712045703168-KGEn)
+[LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:6874010906884378624/)
