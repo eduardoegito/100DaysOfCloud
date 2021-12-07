@@ -13,7 +13,8 @@
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+The posts that show that I shared my process on Twitter or LinkedIn are avaiable below.
 
 [Tweet post](https://twitter.com/eduardoegito/status/1467873461167177729)
+
 [LinkedIn post](https://www.linkedin.com/posts/eduardoegito_carlos-eduardo-egito-on-twitter-activity-6873639712045703168-KGEn)
