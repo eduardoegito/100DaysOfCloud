@@ -21,6 +21,6 @@
 
 The posts that show that I shared my process on Twitter or LinkedIn are avaiable below.
 
-[Tweet post](https://twitter.com/eduardoegito/status/1467873461167177729)
+[Tweet post](https://twitter.com/eduardoegito/status/1468717008925642752)
 
-[LinkedIn post](https://www.linkedin.com/posts/eduardoegito_carlos-eduardo-egito-on-twitter-activity-6873639712045703168-KGEn)
+[LinkedIn post](https://www.linkedin.com/posts/eduardoegito_100daysofcloud-terraform-training-activity-6874483989063708672-omy_)
