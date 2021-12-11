@@ -1,33 +1,46 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Starting the first project
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I picked up the project [COM03-AWS100 - Launch a Hello World website on the internet](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/COM/COM03/COM03-AWS100.md) from 100DaysOfCloudIdeas.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
+As a prerequisite to developing this project, I stated at the beginning of my 100DaysOfCloud journey that I should do the activities in the Infrastructure as a Code (IaC) way. So, I must write the IaC code for this project using Terraform.
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Objectives
 
-## Cloud Research
+Complete the following:
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+    - Launch a linux based EC2 instance in any one region of your choice in a public subnet
+    - Setup a security group that allows http/https connections from the Internet, and ssh from your IP address
+    - SSH into the EC2 instance
+    - Setup a webserver on the EC2 instance
+    - Add a simple hello world header to the index.html file
+    - Hit the public IP address from a browser and confirm the site is served
 
-## Try yourself
+Answer the following:
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+    - What is a region?
+    - What is an availability zone?
+    - What is a public subnet?
+    - How many subnets can there be in one region?
+    - How to launch EC2 instances in public / private subnets?
+    - What are AMIs?
+    - What are security groups?
+    - What are inbound/outbound rules?
+    - What is deny By default rule in security groups?
+    - How to allow access to EC2 from security groups?
+    - How to connect to EC2 instances from your machine?
+    - How to setup your simple static site with EC2
 
-### Step 1 — Summary of Step
+### Step 1 — Configuration of the programmatic access for Terraform in AWS IAM
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://app.box.com/s/6xfwyho7ov9zpbhxa6np30pqm7w73lak)
 
 ### Step 1 — Summary of Step
 
