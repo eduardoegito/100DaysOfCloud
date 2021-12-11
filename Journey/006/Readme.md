@@ -40,13 +40,13 @@ Answer the following:
 
 ### Step 1 — Configuration of the programmatic access for Terraform in AWS IAM
 
-![Screenshot](https://app.box.com/s/6xfwyho7ov9zpbhxa6np30pqm7w73lak)
+![Screenshot](../../images/img01.png)
 
-### Step 1 — Summary of Step
+### Step 2 — Configuring Terraform Cloud to automate the deploy on AWS
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](../../images/img02.png)
 
-### Step 3 — Summary of Step
+### Step 3 — Start
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
