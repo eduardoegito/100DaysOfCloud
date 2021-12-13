@@ -12,4 +12,6 @@
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[Twitter](https://twitter.com/eduardoegito/status/1470520681402146817)
+
+[LinkedIn]([link](https://www.linkedin.com/posts/eduardoegito_github-eduardoegito100daysofcloud-activity-6876286680890933248-h0_1))
