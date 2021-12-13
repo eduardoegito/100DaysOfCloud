@@ -1,5 +1,4 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://dailymedia.case.edu/wp-content/uploads/2017/11/28152832/computer-code.jpg)
 
 # Starting the first project
 
@@ -46,20 +45,22 @@ Answer the following:
 
 ![Screenshot](../../images/img02.png)
 
-### Step 3 — Start
+### Step 3 — Start to code
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](../../images/img03.png)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+In this activity I'm having some difficulties to configure security groups and the UserData to make things work as requested.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+I need to study about how security groups and UserData works. Tomorrow I will focus on it.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+The posts that show that I shared my process on Twitter or LinkedIn are avaiable below.
 
-[link](link)
+[Tweet post](https://twitter.com/eduardoegito/status/1469766635254915074)
+
+[LinkedIn post](https://www.linkedin.com/posts/eduardoegito_uncomplicating-terraform-carlos-eduardo-activity-6875531731584245761-DM1C/)
