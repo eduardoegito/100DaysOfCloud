@@ -22,7 +22,7 @@ I already have the AWS Cloud Practictioner certification and my first goal to 20
 - [ ] ☁️ 6 > [The sixth day - first day of coding](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [My seventh Day - finishing the first project](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [My eighth Day](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
+- [ ] ☁️ 9 > [The ninth Day - second day of coding](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
 ## Walking down the road

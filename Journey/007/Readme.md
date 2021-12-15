@@ -70,7 +70,7 @@ The Terraform code that I wrote to meet the objective stated above is avaiable i
       - It can be done through UserData script at the moment of creation, by the console, or using Terraform (or another IaC tool). Or it can be done by the execution of commands after connecting to the instance by SSH. 
 ## ☁️ Cloud Outcome
 
-After some reasearch, I could finish the Terraform code and the server was reacheble by SSH and HTTP, showing the result as expected.
+After some research, I could finish the Terraform code and the server was reacheble by SSH and HTTP, showing the result as expected.
 
 ### The final result
 
@@ -78,7 +78,7 @@ After some reasearch, I could finish the Terraform code and the server was reach
 
 ## Social Proof
 
-The posts that show that I shared my process on Twitter or LinkedIn are avaiable below.
+The posts that show that I shared my process on Twitter or LinkedIn are available below.
 
 [Tweet post](https://twitter.com/eduardoegito/status/1470190084200833027)
 

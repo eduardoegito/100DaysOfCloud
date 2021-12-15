@@ -59,7 +59,7 @@ I need to study about how security groups and UserData works. Tomorrow I will fo
 
 ## Social Proof
 
-The posts that show that I shared my process on Twitter or LinkedIn are avaiable below.
+The posts that show that I shared my process on Twitter or LinkedIn are available below.
 
 [Tweet post](https://twitter.com/eduardoegito/status/1469766635254915074)
 

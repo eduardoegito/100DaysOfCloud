@@ -22,8 +22,7 @@ To be more prepared to work with Terraform I will take a course from LinuxTips c
 
 ## Social Proof
 
-The posts that show that I shared my process on Twitter or 
-LinkedIn are avaiable below.
+The posts that show that I shared my process on Twitter or LinkedIn are available below.
 
 [Tweet post](https://twitter.com/eduardoegito/status/1468244736691605512)
 
