@@ -1,52 +1,21 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+<!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# New post title here
+# Day 10 of the journey
 
-## Introduction
+## Undestanding the next project
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Today, I start the studies to complete the project COM04-AWS200 (https://tinyurl.com/246szd7s) from 100DaysOfCloudIdeas. The project objective is to deploy a docker container image on AWS Fargate. 
 
-## Prerequisite
+### Readings
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
+- https://docs.aws.amazon.com/AmazonECR/latest/userguide/Registries.html
+- https://docs.aws.amazon.com/AmazonECR/latest/userguide/repository-create.html
+- https://registry.terraform.io/providers/kreuzwerker/docker/latest/docs
+- https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/ecr_repository
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+The posts that show that I shared my process on Twitter or LinkedIn are available below.
 
-[link](link)
+[Tweet post](https://twitter.com/eduardoegito/status/1471984896067489793)
+
+[LinkedIn post](https://www.linkedin.com/posts/eduardoegito_github-100daysofcloud100daysofcloudideas-activity-6877750757400035328-7c-S)
